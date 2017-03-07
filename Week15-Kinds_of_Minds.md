@@ -31,7 +31,23 @@
 
 
 
+## 人物卡
 
+（因为丹尼特在[TED Talk](https://www.ted.com/talks/dan_dennett_s_response_to_rick_warren#t-1039029)里引用了他一段很美的语言，让我想要看看 Paul MacCready是何方神圣）
+
+
+
+Paul MacCready（ 1925年9月29日 –2007年8月28日），发明家，第一届？奖得主。
+
+老爷子做了一个[激发儿童少年创造发明的项目/网站](http://lemelson.mit.edu/)：「Celebrating invention, Inspiring youth」
+
+> I'm more interested in a world that works than what sells.
+
+
+
+![Paul MacDready](http://upload-images.jianshu.io/upload_images/10451-f2e1307dabf50930.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 来源：维基百科、[TED 嘉宾誌](https://www.ted.com/speakers/paul_maccready)
 
 ## 人物卡
 
@@ -48,14 +64,6 @@
 ## 人物卡
 
 笛卡尔（Rene Descartes）
-
-
-
-## 人物卡
-
-Paul MacCready（ 1925年9月29日 –2007年8月28日）
-
-> I'm more interested in a world that works than what sells.
 
 
 
@@ -136,7 +144,7 @@ Ten thousand years ago, at the dawn of agriculture, human population, plus lives
 
 > Over billions of years on a unique sphere, chance has painted a thin covering of life: complex, Improbable, wonderful and fragile. Suddenly, we humans——a recently arrived species no longer subject to the checks and balance inherent in nature——have grown in population, technology and intelligence to a position of terrible power. We now wield the paintbrush.
 
-![屏幕快照 2017-03-07 上午11.59.52](/Users/doujiang/Desktop/屏幕快照 2017-03-07 上午11.59.52.png)
+![人种的流变-河森堡.png](http://upload-images.jianshu.io/upload_images/10451-2a9650d7db8fd67d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 (图片来源：国家博物馆讲解员袁硕 ID：河森堡在一席上的演讲[《进击的智人》 ](http://www.bilibili.com/video/av8888368/)
 
