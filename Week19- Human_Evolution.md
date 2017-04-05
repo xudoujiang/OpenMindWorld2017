@@ -10,7 +10,7 @@
 
 ## 简史卡
 
-![Rocket Science.001](/Users/doujiang/Desktop/Rocket Science.001.jpeg)
+![Rocket Science.001.jpeg](http://upload-images.jianshu.io/upload_images/10451-46f1efffeabcb6ca.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 因为2017年1月开始接触博物馆教育，3月国博@河森堡 刷频。我这个时间迷茫症患者不得不以图示来处理原先以数字形态储存着的时间荒洪感。黑猩猩、倭黑猩猩、人类共属「人科」（Last Common Ancestor，简称 LCA）。解剖学意义上的现代人（anatomically modern human，简称AMH）则起源于 20 万年前后，一个约 5 千名女性的族群。
 
