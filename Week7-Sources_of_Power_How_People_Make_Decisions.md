@@ -35,18 +35,18 @@
 
 -  人物：Gary A. Klein（1944年2月5日—  ）
 
--  印象：自然决策理论先驱。1978年创办 R&D 公司，最后卖给了ARA——学术和商业的完美结合。
+- 印象：自然决策理论先驱。1978年创办 R&D 公司，最后卖给了ARA——学术和商业的完美结合。
 
       **理论成就**：
 
-   - Recognition-Primed Decision (RPD) model，1985.`models of cognitive processes`
-   - Data/Frame model of sensemaking. 
-   - Management by Discovery model of planning to handle wicked problems. 
-   - Triple Path model of insight，2011
-   - Critical Decision method（关键决策方法） and Knowledge Audit  `认知任务分析`
-   - PreMortem method of risk assessment, ShadowBox method for training cognitive skills. 影响领域：消防、军事、航空。
+  - Recognition-Primed Decision (RPD) model，1985.`models of cognitive processes`
+  - Data/Frame model of sensemaking. 
+  - Management by Discovery model of planning to handle wicked problems. 
+  - Triple Path model of insight，2011
+  - Critical Decision method（关键决策方法） and Knowledge Audit  `认知任务分析`
+  - PreMortem method of risk assessment, ShadowBox method for training cognitive skills. 影响领域：消防、军事、航空。
 
--  出处：[维基百科](https://en.wikipedia.org/wiki/Gary_A._Klein)、[Edge Page](https://www.edge.org/memberbio/gary_klein)
+- 出处：[维基百科](https://en.wikipedia.org/wiki/Gary_A._Klein)、[Edge Page](https://www.edge.org/memberbio/gary_klein)
 
 
 
@@ -92,17 +92,13 @@ Gary Klein 回想1985年开展的决策研究设计，坦诚地表明*「甚是�
 
 在多年的研究工作中归纳出若干策略：个体如何理解瞬息万变的情境？决策意志发生动摇的情况有哪些？专业知识会在哪些工作阶段发挥作用？……等等。罗伯塔 · 卡尔德伍德， R&D 科研团队的一员，带头制定了「访谈工作指导纲要」，将访谈工作标准化，引导故事述说的方式走向成熟。 
 
-`阳老师：「产品故事」方法论最核心的用途，就是帮助产品经理提高决策、判断和品位。决策大拿Gary Klein 是如此重视「故事」！并且早就有一套`
-
-`故事决策方法论，值得深入学习、引用。`
+`阳老师：「产品故事」方法论最核心的用途，就是帮助产品经理提高决策、判断和品位。决策大拿Gary Klein 是如此重视「故事」！并且早就有一套故事决策方法论，值得深入学习、引用。`
 
 
 
 #### 讲述故事，分享经历
 
 为了更好地分析故事，以表单形式预设若干策略。如果受访者没有提及这些策略，研究人员会主动询问他们。采访工作 人员通常要有两个：一个负责重点采访、另一个做笔记，审阅表单中的策略是否有被提及。
-
-
 
 #### 找到决策关键点
 

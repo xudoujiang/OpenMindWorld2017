@@ -8,6 +8,8 @@
 
 ### 1. 预读
 
+为什么会有人呢？我们「人」是从哪里来的？……这种天真的发问，
+
 
 
 ![#pre-reading.jpg](http://upload-images.jianshu.io/upload_images/10451-5034d2be9b011b16.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -32,5 +34,9 @@
 
 
 
-
 ![ C9-两性战争.jpg](http://upload-images.jianshu.io/upload_images/10451-516374b8fc03d343.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 6. 最为精彩，种种比喻/类比/拟人
+
+![1909665455.jpg](http://upload-images.jianshu.io/upload_images/10451-caacc4502a285bd9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1586438441.jpg](http://upload-images.jianshu.io/upload_images/10451-3cac828b20689a83.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
