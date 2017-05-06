@@ -13,7 +13,13 @@
 * 斯坦福监狱实验之后，津巴多决定寻找利用心理学帮助人们的途径，于是他在门洛帕克 (加利福尼亚州)设立了 [害羞诊所（The Shyness Clinic）](http://www.shyness.com/research-and-presentations/) ，治疗成人和儿童的害羞。
   http://shyness.com/wp-content/uploads/2014/Shyness-and-social-anxiety-HGZ.pdf
 
+  ​
+
 * 津巴多在Greater Good 杂志上最近发表题为“英雄主义的平凡”（"The Banality of Heroism”）的文章，探讨平凡人如何能成为日常生活中的英雄。
+
+  https://www.researchgate.net/publication/292266731_The_banality_of_heroism
+
+  ​
 - 2007年3月7日，已经在2003年正式退休的津巴多, 又在斯坦福大学校园发表其最后的“探究人性”（"Exploring Human Nature"）演讲，宣告他50年教学生涯的结束。
 - 出处：https://zh.wikipedia.org/wiki/菲利普·津巴多
 
