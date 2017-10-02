@@ -278,7 +278,7 @@ Ten thousand years ago, at the dawn of agriculture, human population, plus lives
 
 ## 技巧卡
 
-> 试图解析作者的论述路线
+> 试图解析作者的论述思路
 
 比起「根据传统」、说着平庸的正确之话，丹尼特愿意挥舞这长矛、深入无人愿入之境。
 从无数层类比、对立组成的「概念缝隙」之中穿梭出来，丹尼特指出了他进行的、并对此非常自信的**研究路径**：
