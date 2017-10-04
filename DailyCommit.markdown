@@ -8,7 +8,43 @@ categories: jekyll update
 
 
 
-### 埃米·诺特（Emmy Noether）
+## 连线卡：理性、心灵、结构
+
+> 读斯坦诺维奇《决策与理性》、《最小阻力之路》、阿德勒的《儿童人格教育》
+
+今天扫读了好几本书。斯坦诺维奇的《决策与理性》。他虽然没有斐然的文采，但语言平实又非常清晰。我读了第1章和第6章。
+
+简 · 奥斯丁在《理智与情感》……时隔？年，在认识自身的心理进程上，人们留下了长足的步印。
+
+是时候重新认识「感性与理性」了！在认知心理学中，人类的决策机制……是一个重要领域。
+
+有一种理性，是人们用来校准自己的行动、以最大化实现目标的。从机械论的工具性理性一路走来，[赫伯特 · 西蒙](http://wiki.mbalib.com/wiki/%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E8%A5%BF%E8%92%99)带我们迈入「有限理性」「满意度」 的有限理性，卡尼曼的「快与慢」则像一个慢速镜头，得以透视决策的思维进程。
+
+人们所秉持的信念，在多大程度上是符合真实世界的架构的呢？这就是另一种理性：认识性理性。在哲学家眼里，它也是「理论性理性」、「证据性理性」。
+
+对工具性理性，（假设）我们已经探讨得足够充分。而认识性理性，关于人的信念和价值是否与这个世界及其公义相符合，我们自然会问：个体的理性决策，是否符合群体乃至人类的公义？
+
+`囚徒困境`和公地悲剧说明：狭义的理性决策，可能导致局面失控。`举海洋垃圾的例子` 正如狭义相对论……，广义相对论……一样，狭义理性已不再……，我们需要广义的理性。我们需要一种「元理性」：用理性去监督理性，用更理性去校正理性。
+
+
+
+
+
+2017年，Musk在全球宇航大会上宣布，2028年将实现人类登陆火星。 这很可能意味着，人类将与其他物种不期而遇。而地球上的物种，我们真的了解透彻了么？心灵哲学家们还在苦苦思索：人类的公义，对于（无论地球上还是外星球的）其他物种而言，是否是一种不自知的尺度沙文主义呢？
+
+就这样，我从心理学的决策领域，驰骋至心灵哲学的讨论现场。正如丹尼特所说：
+
+> 将无心灵者当做有心灵者，与你养的花草称兄道弟；抑或，把有心灵者当做无心灵者来对待，漠视或贬低它们的体验、痛苦、欢欣——两种错误都可能有严重的道德后果。
+>
+> ——我们有心者，我们用心者，《心灵种种》p6
+
+在翻阅心灵哲学的书籍时，我频频与一个名字相遇：约翰 · 赛尔。`待写人名卡，再展开`
+
+- 给自己的思考题：斯坦诺维奇提到「多阶理性」及其结构，与《最小阻力之路》中提到的「结构」、再与《人生脚本》故事结构，以及阿德勒谈到的「生活目标」「生活方式」，相互之间应有通衢？
+
+  ​
+
+## 人名卡：埃米·诺特（Emmy Noether）
 
 `老奶奶系列，在@路意Louis 的微博偶然读到`
 
@@ -18,7 +54,7 @@ categories: jekyll update
 
 
 
-## 可感知城市（Sensable City）
+## 概念卡：可感知城市（Sensable City）
 
 - 空间感知的知识和研究转化为专业与公众工具
 - 「小数据-厚数据-大数据」三者的结合 [Link](https://mp.weixin.qq.com/s?__biz=MzA4NDA3NzgzOA==&mid=2681729701&idx=1&sn=5aa624ebec3373dc8c5cfc420e4b5a2d&chksm=85cfeec4b2b867d223430898ba709c23cd51b638fe857a014cf806e054ff6b71c9479b8ab79a&mpshare=1&scene=1&srcid=1002ylZZU6y4uSYka8RWewO1&pass_ticket=xLhRCmQMU03XFR0Ez9zsvICa31giK9jpnQbDWTheqAIk0KiEZeHVlWLuHAljGSLC#rd)
@@ -28,31 +64,31 @@ categories: jekyll update
 
 
 
-## 七年级语文教辅
+## 小研究：七年级语文教辅
 
 海伦·凯勒顽强地学习说话，但历史却让她再度失语。很少人知道，海伦·凯勒一个颇为激进的社会主义者。在海伦·凯勒晚年的50年代，美国处于麦卡锡统治时代，海伦写信问候身陷囹圄的共產黨領袖伊麗莎白·G.弗林。
 海伦·凯勒的家庭女教师一直陪伴着她的学习，直到进入大学(?)。海伦的第一次识字启蒙，是 Water！这个具有戏剧性的事件，被改编为戏剧《玻璃面具》~
 ![](http://www.tv-tokyo.co.jp/anime/garasunokamen/images/main_index_04.jpg)
 
-## 托起世界文明的数学
+## 纪录片：托起世界文明的数学
 
 世人追求永恒，但只有真正看透人世虚空的哲学家，才有可能达致永恒。而数学能用这种领域用人类的语言表达出来。
 
-## Michael A. DiSpezio
+## 人名卡 ：Michael A. DiSpezio
 
 科学教育家
 编写了好多有趣的书！
 
 - 来源：[维基百科](https://www.wikiwand.com/en/Michael_A._DiSpezio)
 
-## 达娃·索贝尔（Dava Sobel）
+## 人名卡 ：达娃·索贝尔（Dava Sobel）
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dava_Sobel_with_hands_folded%2C_November_8%2C_2007.jpg/440px-Dava_Sobel_with_hands_folded%2C_November_8%2C_2007.jpg)
 
 - [NPR 访谈](http://www.npr.org/templates/story/story.php?storyId=5060359)
   Google一位作者，如果他已去世，搜索引擎会将你带到 NY Times 的讣告，冷静告知：died.如果幸运，作者还在世，那么你可以试试在 [NPR网站](http://www.npr.org/) 搜索他/她的名字，听着他/她的声音，为你读过的书、看过的画镀上又一重记忆涂层。
 
-## 读「Understanding by Design」
+## 惊喜！读「Understanding by Design」
 
 这不就是我一直想要找的书哇！
 
@@ -72,7 +108,7 @@ categories: jekyll update
 
 教师是设计师。和其他领域——建筑、工程、平面艺术的专业人员一样，教育领域中的设计师也必须考虑他们的受众。`出处：p13` 对于学习者而言，最重要的考量是他们的大脑、前知识、喜好、背景、风格、未来情境……
 
-## 德雷福斯模型（Dreyfus Model）
+## 概念卡：德雷福斯模型（Dreyfus Model）
 
 职场世界上充斥着大量高级新手。例子1、例子2、经历3……
 你需要看清自己的起点，才能够评估相应的体力投入方案。德雷福斯模型帮助你定位并聚焦成长方向。
@@ -97,7 +133,7 @@ categories: jekyll update
 
 `2017-08-10读《智慧社会：大数据与社会物理学》`
 
-### 我的读前问题123
+
 
 阿莱克斯·彭特兰(Alex Pentland)，大数据专家，可穿戴设备之父，MIT Media Lab主持人
 
@@ -108,18 +144,19 @@ categories: jekyll update
 3. 典型的将知识化为商业生产力的入世之人，精力充沛，乐观向善。带了50个(?)博士生；创办了好几家看起来很 cool 的公司，有……
 
 - 证据：
+- 我的读前问题123
 
 
 - 来源：[维基百科](https://www.wikiwand.com/en/Alex_Pentland)
 
-## 人名卡
+## 人名卡：安妮特·西蒙斯（Annette Simmons
 
 安妮特·西蒙斯（Annette Simmons），
 [《故事思维》](https://book.douban.com/subject/26969935/)作者
 [AnnetteSimmons的个人网站](http://annettesimmons.com/storytelling-101/)
 ![The Story Factor](http://annettesimmons.com/wp-content/uploads/2016/04/The-Story-Factor-191x300.jpg)
 
-## 人名卡
+## 人名卡：泰费尔（Henri Tajfel）
 
 泰费尔（Henri Tajfel，1919.6.22~1982.3.3），社会心理学家，提出「社会认同理论」。
 
@@ -141,7 +178,7 @@ via @yangzhiping《教养的迷思》带来的启示：将自我嵌入不同的�
 
 ------
 
-## [Work-based learning](https://edpolicy.stanford.edu/sites/default/files/publications/preparing-21st-century-citizens-role-work-based-learning-linked-learning.pdf)
+## 视野卡：[Work-based learning](https://edpolicy.stanford.edu/sites/default/files/publications/preparing-21st-century-citizens-role-work-based-learning-linked-learning.pdf)
 
 为真实世界而学习：基于工作的学习，将课堂学习应用于真实世界。
 Scope：Stanford Center for Opportunity Policy in Education
@@ -158,15 +195,9 @@ Scope：Stanford Center for Opportunity Policy in Education
 
 > Connecting professional development with curriculum and industry. Teachers attend a two-week camp every summer to support use of integrated curriculum and authentic assessment tools. At this camp they develop projects that connect academic content to real world projects.
 
-- Providing a college- and career-readiness focus in which students take a college-preparatory sequence and a full sequence of vocational coursework. The senior portfolio required of all students at CTA includes a resume, col- lege application, and budget for college expenses.
-- Designing schedules to accommodate real-world learning using block sched- uling; opportunities for concurrent enrollment in college, university and trade programs for credit; and other  exible scheduling of traditional course- work. Block scheduling allows students to take eight courses instead of six over the course of a school year, providing them with time in 12th grade to participate in internships where they can apply their skills to real-world problems and still complete coursework that will prepare them for college.
-- Creating individual learning plans and instruction allowing students to move seamlessly between real-world work experiences and on-site instruction.
-- Maintaining frequent communication between parents and teachers, includ- ing bi-monthly reports that track each student’s progress.
-- Building strong partnerships with post-secondary programs. For example, CTA students with qualifying GPAs are guaranteed admission to the San Diego State Construction Management program.
-
 ------
 
-## 学校创新思维 | LearingAndBrain
+## 视野卡：学校创新思维 | Learing and Brain
 
 `20170725@GZ, 10:37`
 [Innovative-Minds-and-Schools](https://www.learningandthebrain.com/Event-361/Innovative-Minds-and-Schools/)
@@ -180,27 +211,25 @@ Scope：Stanford Center for Opportunity Policy in Education
 > Technology experts estimate that 47 percent of current jobs will be obsolete over the next one-two decades due to computers and automation and that many of the remaining jobs will require innovative thinking skills, yet schools are not preparing students for these job changes. New ways of thinking, making and imagining also have the potential to bring changes to students' lives, schools and society. Yet the science of innovation and innovative thinking has remained a mystery until today. 
 > New findings from brain, behavior, social and organizational sciences are providing insights how to promote ths creative thinking process, how to inspire meaningful changes in students and schools, and how to use the brain's default mode network and social-emotional imagination in ways that will reshape learning and education. Learn about the "Science of Innovation," strategies to inspire innovative thinking, ideas and change; examples of innovation in schools and forward-thinking leaders; how to teach students the ability to innovate, and why the brain's default mode and social-emotional imagination for essential for student creativity, innovation, learning and achievement.
 
-------
 
-## 人名：简·海莉（Jane M.Healy）
+
+## 人名卡：简·海莉（Jane M.Healy）
 
 教育理论家。著作《大脑濒危记：为什么我们的孩子不爱思考》
 
-### 研究方向
+- 研究方向：Project|Brain Cleaning
+
+技术、媒体、文化对儿童大脑发展和学习的影响（about the impact of technology, media and culture on children's brain development and learning.）
 
 「我们生活在一个敌视健康大脑的文化之中。」
 「We show them, in every way we can, how much we care about them and their own individual talents.」
 
-- Project|Brain Cleaning
-- 技术、媒体、文化对儿童大脑发展和学习的影响（about the impact of technology, media and culture on children's brain development and learning.）
-
-### Lecture：How To Optimize Your Child's Ability To Learn
-
-- 出处：[Jane M. Healy, PhD.Educational Psychologist](https://www.kidsinthehouse.com/expert/parenting-advice-from-jane-m-healy-phd)
+- Lecture：How To Optimize Your Child's Ability To Learn
+  - 出处：[Jane M. Healy, PhD.Educational Psychologist](https://www.kidsinthehouse.com/expert/parenting-advice-from-jane-m-healy-phd)
 
 ------
 
-## 人名：拉尔夫·泰勒（Ralph Tyler）
+## 人名卡：拉尔夫·泰勒（Ralph Tyler）
 
 美国教育家，现代课程理论重要奠基者。拉尔夫·泰勒（Ralph Tyler，1902.4.22-1994)
 在1949年出版的《课程与教学的基本原理》（Basic Principles of Curriculum and Instruction）被誉为「现代课程理论的圣经」。「泰勒原理」成为课程领域的一个范式。
