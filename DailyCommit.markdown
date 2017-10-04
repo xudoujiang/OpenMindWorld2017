@@ -8,12 +8,23 @@ categories: jekyll update
 
 
 
+### 埃米·诺特（Emmy Noether）
+
+`老奶奶系列，在@路意Louis 的微博偶然读到`
+
+被爱因斯坦称为最重要而且最富创新的数学家之一，Noether定理被称为现代物理最重要的数学定理之一。她的父亲是位数学家，受其影响，从1907年在德国埃尔朗根大学数学学院无薪工作了7年，1915年接受希尔伯特和克莱因的邀请，前往德国古廷根大学数学院(当时世界上最著名的数学研究中心)做研究。Noether定理是她在1915年的成果，1918年发表，证明了物理守恒律。
+
+- [维基百科](https://www.wikiwand.com/zh-hans/%E5%9F%83%E7%B1%B3%C2%B7%E8%AF%BA%E7%89%B9)
+
+
+
 ## 可感知城市（Sensable City）
 
 - 空间感知的知识和研究转化为专业与公众工具
 - 「小数据-厚数据-大数据」三者的结合 [Link](https://mp.weixin.qq.com/s?__biz=MzA4NDA3NzgzOA==&mid=2681729701&idx=1&sn=5aa624ebec3373dc8c5cfc420e4b5a2d&chksm=85cfeec4b2b867d223430898ba709c23cd51b638fe857a014cf806e054ff6b71c9479b8ab79a&mpshare=1&scene=1&srcid=1002ylZZU6y4uSYka8RWewO1&pass_ticket=xLhRCmQMU03XFR0Ez9zsvICa31giK9jpnQbDWTheqAIk0KiEZeHVlWLuHAljGSLC#rd)
 - [想学数据分析？](https://www.zhihu.com/question/29265587) 同济大学建筑学院？
 - MIT Senseable City Lab（可感城市实验室），垃圾追踪（Trash Track），Carlo Ratti
+
 
 
 
