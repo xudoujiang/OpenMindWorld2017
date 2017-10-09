@@ -2,11 +2,57 @@
 layout: post
 title:  "Cards：Daily Commit"
 date:   2017-07-25 10:38
-categories: jekyll update
+categories: Cards
 ---
 > 一只阅读杂食动物的松果洞
 
-## 
+ 
+
+## 人名卡：Ray Oldenburg
+
+城市社会学家，今年85岁啦。1989年出版[《The Great Good Place》](https://www.wikiwand.com/en/The_Great_Good_Place_(Oldenburg))，谈及人们生活的三种空间，它们分别是：家、工作空间、休闲娱乐空间。老先生本人尤为珍视第三空间（third places），认为公共休憩地、咖啡厅、即兴广场等场所，会是社区营造、公民社会和居民幸福感的重要指标。
+
+在 Oldenbury 的年代，第三空间逐渐锁入「家」中，人们不与邻居交往、宅在家中，通过电视电子媒便可满足休闲娱乐的需要。而据我观察，目前的工作空间颇有将三者融合的趋向：招聘广告大打吃喝玩乐牌，公司配备饭堂、健身房、宿舍……
+
+我想知道的是：过去了快30年，这一理论还有多大的现实参照性？它后来获得了哪些发展呢？`Oldenburg 在明尼苏达州的佛罗里达大学有什么门生？`
+
+1）
+
+> In exploring how these places work and the various roles they serve, Oldenburg offers **Placemaking tools** and insight that can be useful to individuals and communities everywhere.
+
+- 来源：https://www.pps.org/reference/roldenburg/
+
+2）
+
+> It helps them to re-imagine everyday spaces, and to see anew the potential of parks, downtowns, waterfronts, plazas, neighborhoods, streets, markets, campuses and public buildings.
+
+- 来源：[Placemaking 101](https://www.pps.org/reference/reference-categories/placemaking-tools/)
+
+
+
+3）关于商场：
+
+> “Totally unlike Main Street, the shopping mall is populated by strangers. As people circulate about in the constant, monotonous flow of mall pedestrian traffic, their eyes do not cast about for familiar faces, for the chance of seeing one is small. That is not part of what one expects there. The reason is simple. The mall is centrally located to serve the multitudes from a number of outlying developments within its region. There is little acquaintance between these developments and not much more within them. Most of them lack focal points or core settings and, as a result, people are not widely known to one another, even in their own neighborhoods, and their neighborhood is only a minority portion of the mall’s clientele.”
+
+- 来源：[引自《The Great Good Life 》](https://www.pps.org/reference/roldenburg/)
+
+  ​
+
+## 术语卡：spacemaking
+
+
+
+
+
+## 新知卡：[In Space We Read Time](http://press.uchicago.edu/ucp/books/book/distributed/I/bo25156502.html)
+
+1）德国文化地理学家、东欧史专家Karl Schlögel有不同的看法，他于2016年11月在美国芝加哥大学出版社出版了他的德文专著的英译本：In Space We Read Time：On the History of Civilization and Geopolitics（我们在空间里读取时间：论文明史和地缘政治学）。此书论证说：历史之「何处」与历史之「何时」同样重要。
+
+- 来源：http://blog.sciencenet.cn/blog-1557-1078747.html
+
+2）[空间，一个社会学的概念](http://oa.shxyj.org/UploadFile/20130926008/2015-05-26/Issue/knz3g4as.pdf)
+
+
 
 
 
@@ -15,6 +61,9 @@ categories: jekyll update
 10月7日。假期里因为事情和行程零散，即使坐到桌前也还一时无法聚气。这时适合做复盘。十月已在悄然前进，离又一次新年立志不远矣。为了不然12月30日过于懊恼，我还有两个月时间补缺。复盘，亦是查漏。
 
 日课
+
+- 做课程。`是接下来最重要的事情`
+
 
 - 仰卧起坐100~150
 
@@ -194,7 +243,7 @@ categories: jekyll update
 - 来源：https://www.wikiwand.com/en/Henri_Tajfel
 - 延伸：The Nurture Assumption by Judith Harris ，《教养的迷思》
 
-## 运用卡
+## 运用卡：多重身份
 
 via @yangzhiping《教养的迷思》带来的启示：将自我嵌入不同的社群身份/认同当中。我可以是设计师、公益人、教师、协作者、手绘旅人、妈妈……
 
