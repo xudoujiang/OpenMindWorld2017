@@ -8,6 +8,22 @@ categories: Cards
 
  
 
+## 概念卡：格式塔
+
+在20世纪初，格式塔理论首先被Max Wertheimer提出。这种心理哲学的提出包含感知、感知经验和相关刺激模式。格式塔理论的格式是：**整体大于部分之和。**
+
+> The whole is other than the sum of the parts.
+>
+> —— Kurt Koffka
+
+格式塔是德文Gestalt的译音，意即「模式、形状、形式」等，意思是指动態的整体（dynamic wholes）。
+
+格式塔体系的关键特征是整体性、具体化、组织性和恒常性。
+
+![五项基本原则](http://image.uisdc.com/wp-content/uploads/2015/11/21gst20151101.jpg)
+
+- 来源：[维基百科|格式塔学派](https://www.wikiwand.com/zh/%E6%A0%BC%E5%BC%8F%E5%A1%94%E5%AD%A6%E6%B4%BE)、[視覺法則 – 格式塔理論的四個基礎](https://vide.tw/1823)、
+
 ## 概念卡：知识论
 
 Theory of Knowledge（TOK）
